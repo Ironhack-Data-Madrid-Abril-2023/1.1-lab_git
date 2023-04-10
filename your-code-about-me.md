@@ -13,4 +13,4 @@
 
 * Which industry will you seek employment in? Research and Tech industries.
 * What will your future role look like? I have no idea.
-* What is your career goal? Being a researcher. But right now I´ll settle with a job I like
+* What is your career goal? Being a researcher. But right now I´ll settle for a job I like.
