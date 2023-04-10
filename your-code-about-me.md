@@ -1,39 +1,16 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "be68690d",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "#My name is Eduardo Goicoechea Serrano.\n",
-    "\n",
-    "#I was born in Madrid on August 17th 1988.\n",
-    "\n",
-    "#I have a PhD in Life Sciences from Warwick University."
-   ]
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.11.2"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+# Who am I
+
+* Where are you from? Madrid
+* What do you do? I am a researcher currently doing an IronHack course
+* Do you have previous experience with technology/data? I have some knowledge of Python and a C++ course that I tookmyears ago.
+
+# Why am I here
+
+* What has brought you to Ironhack? The need to improve my knowledge.
+* What knowledge/skills do you expect to learn in this bootcamp? Data analysis.
+
+# What will I do after the bootcamp?
+
+* Which industry will you seek employment in? Research and Tech industries.
+* What will your future role look like? I have no idea.
+* What is your career goal? Being a researcher. But right now I´ll settle with a job I like.
