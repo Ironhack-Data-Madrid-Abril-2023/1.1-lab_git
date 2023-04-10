@@ -11,5 +11,8 @@ echo <mensaje>: muestra un mensaje en la pantalla.
 cat <archivo>: muestra el contenido de un archivo en la pantalla.
 grep <patrón> <archivo>: busca un patrón en un archivo y muestra las líneas que coinciden con el patrón.
 chmod <permisos> <archivo>: cambia los permisos de un archivo.
+    
+    
+    modificado
 
 
