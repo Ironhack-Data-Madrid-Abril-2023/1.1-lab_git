@@ -9,6 +9,10 @@
 * The need to improve skills and to be a coder in data
 * I would like to lear phyton and to be able of think different in order to solve problems
 
+
+
+
+
 # What will I do after the bootcamp?
 
 * I would like to work in benefit of people in vulnerable situations
